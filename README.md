@@ -1,6 +1,5 @@
-# meta_ozce_0
-
-A new Flutter project.
+# MetaOzce2023_MobileMain
+It is the core implementation of the MetaOzce project. It consists of two parts. The first is the hotel navigator for the users who are searching for the hotel, the second is the hotel guide, which also includes the mobile assistant developed to provide convenience and more comfortable facilities to the users staying at the hotel.
 
 ## Getting Started
 
